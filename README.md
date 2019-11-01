@@ -2,4 +2,4 @@
 超图决赛作品
 
 
-<img src="intro.png" width=50%>
+<img src="intro.jpg" width=50%>
